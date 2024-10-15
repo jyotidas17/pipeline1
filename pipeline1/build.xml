@@ -1,5 +1,5 @@
-<project name="SimpleJavaApp" default="compile">
-    <property name="src" location="src"/>
+<project name="SimpleJavaApp" default="run">
+    <property name="src" location="src/java"/>
     <property name="build" location="build"/>
 
     <target name="init">
